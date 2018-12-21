@@ -1,0 +1,27 @@
+td {
+  border: thin solid; padding: 0.5em;
+}
+
+h1{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+body>header>ul>li {
+  text-align: center;
+}
+
+body>div>ul>li {
+  text-align: center;
+}
+
+body>div {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 1em;
+  width: 50%;
+  vertical-align: top;
+}
